@@ -19,9 +19,9 @@ source ~/.wellscii/wellscii.sh
 
 # Ussage
 
-Create your doodles on the dooles/ folder.
+Create your doodles on the doodles/ folder.
 ```sh
-$ echo ":)" > doodle.txt
+$ echo ":)" > doodles/doodle.txt
 $ ls doodles/
 default.txt example.txt doodle.txt
 ```
