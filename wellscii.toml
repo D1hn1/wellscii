@@ -1,0 +1,11 @@
+# Name of doodle
+[example]
+
+# Date format: day/month
+from="01/10"
+to="01/11"
+
+[default]
+
+from="*"
+to="*"
