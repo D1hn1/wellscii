@@ -4,11 +4,11 @@ A simple bash program that prints a doodle each time you log in a shell. Configu
 
 # Instalation
 
-Git clone the project
+Git clone the repository.
 ```bash
 git clone https://github.com/D1hn1/wellscii.git ~/.wellscii
 ```
-Chmod script
+Chmod script.
 ```bash
 chmod +x ~/.wellscii/wellscii.sh
 ```
@@ -25,7 +25,7 @@ $ echo ":)" > doodle.txt
 $ ls doodles/
 default.txt example.txt doodle.txt
 ```
-Modify the wellscii.toml file
+Modify the wellscii.toml file.
 ```toml
 # The name of the file without .txt.
 [doodle]
